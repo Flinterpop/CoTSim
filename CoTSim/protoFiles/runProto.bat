@@ -1,0 +1,10 @@
+protoc --csharp_out=./ contact.proto  
+protoc --csharp_out=./ cotevent.proto
+protoc --csharp_out=./ detail.proto 
+protoc --csharp_out=./ group.proto 
+protoc --csharp_out=./ precisionlocation.proto     
+protoc --csharp_out=./ status.proto
+protoc --csharp_out=./ takcontrol.proto
+protoc --csharp_out=./ takmessage.proto
+protoc --csharp_out=./ takv.proto 
+protoc --csharp_out=./ track.proto

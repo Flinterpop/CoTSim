@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoTSim/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.24.4",
+          "Google.Protobuf.Tools": "3.24.4"
+        },
+        "runtime": {
+          "CoTSim.dll": {}
+        }
+      },
+      "Google.Protobuf/3.24.4": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.24.4.0",
+            "fileVersion": "3.24.4.0"
+          }
+        }
+      },
+      "Google.Protobuf.Tools/3.24.4": {}
+    }
+  },
+  "libraries": {
+    "CoTSim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.24.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TmUI4ndd3x5HePyLmqAmGT6oVvoRCu+bMmrJmOpAFtCPEB+oUMWF8dyVY1zxXry/8cqsTHWszYRIAwpuUNpUyA==",
+      "path": "google.protobuf/3.24.4",
+      "hashPath": "google.protobuf.3.24.4.nupkg.sha512"
+    },
+    "Google.Protobuf.Tools/3.24.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6vyjER57asW8/XfSDCfg7ktSFbhrIoTQK2ay5CNXEEDyTFvPaFheD9q1Y551t83Eb/OX0KjZXBj4/yEg0ipzqA==",
+      "path": "google.protobuf.tools/3.24.4",
+      "hashPath": "google.protobuf.tools.3.24.4.nupkg.sha512"
+    }
+  }
+}
