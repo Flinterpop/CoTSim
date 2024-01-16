@@ -24,11 +24,12 @@ namespace CoTSim
             Group myGroup = new Group();
             myGroup.Name = cb_Team.Text;
             myGroup.Role = "Team Member";
-            Contact myContact = new Contact() { Callsign = "CSHARP", Endpoint = "192.168.1.101:4242:tcp" };
+            Contact myContact = new Contact() { Callsign = "I23C" };//, Endpoint = "192.168.1.101:4242:tcp" };
             Status myStatus = new Status() { Battery = 92 };
             Takv myTakv = new Takv() { Device = "MAC", Os = "Win32", Platform = "WinTAK-CAN", Version = "4.9.0.156" };
-            Track myTrack = new Track() { Course = 34, Speed = 2.0 };
-            Detail myDetail = new Detail() { Group = myGroup, Contact = myContact, Takv = myTakv, Status = myStatus, Track = myTrack };
+            //Track myTrack = new Track() { Course = 34, Speed = 2.0 };
+            Detail myDetail = new Detail() { Group = myGroup, Contact = myContact, Takv = myTakv };//, Status = myStatus };//, Track = myTrack };
+            
             CotEvent myCot = new CotEvent() { How = "h-e", Access = "Undefined", Detail = myDetail, Uid = "23234", Lat = 45.111, Lon = -75.2, Hae = 100, Ce = 9999999, Le = 9999999, Type = "a-f-G-U-C-I" };
 
             ulong milliseconds = (ulong)DateTime.UtcNow.Subtract(DateTime.UnixEpoch).TotalMilliseconds;

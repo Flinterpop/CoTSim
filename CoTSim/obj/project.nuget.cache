@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UVvG/6khIlQf38TQbL+4Z/ctLRPm6bD+1GdBV+237BG2VzoWi/0trC++xITVUNcnI7JbmoRZ35iJAGmjT3Zi8g==",
+  "dgSpecHash": "6iKw7VQukpe7FFFTtxZJYxdF0/Oj0Ovf4CgBIN0yVbkrNaJs4xxVVq9iUwdjD2daVc853LlD+Qa/GaE78AFgMQ==",
   "success": true,
-  "projectFilePath": "C:\\source\\test\\CoTSim\\CoTSim\\CoTSim.csproj",
+  "projectFilePath": "C:\\source\\gitinternal\\CoTSim\\CoTSim\\CoTSim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brad\\.nuget\\packages\\google.protobuf\\3.24.4\\google.protobuf.3.24.4.nupkg.sha512",
     "C:\\Users\\Brad\\.nuget\\packages\\google.protobuf.tools\\3.24.4\\google.protobuf.tools.3.24.4.nupkg.sha512"
