@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoTSim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c518ad019aea0eb929fffb051517dececd184766")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3488f33eaf1d522cedc98efd312defdcf9b51c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoTSim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoTSim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

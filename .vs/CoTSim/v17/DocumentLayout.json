@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source\\gitinternal\\CoTSim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D003FED9-4CFC-4377-9333-2635B4A386DE}|CoTSim\\CoTSim.csproj|c:\\source\\gitinternal\\cotsim\\cotsim\\source\\takmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D003FED9-4CFC-4377-9333-2635B4A386DE}|CoTSim\\CoTSim.csproj|solutionrelative:cotsim\\source\\takmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D003FED9-4CFC-4377-9333-2635B4A386DE}|CoTSim\\CoTSim.csproj|c:\\source\\gitinternal\\cotsim\\cotsim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D003FED9-4CFC-4377-9333-2635B4A386DE}|CoTSim\\CoTSim.csproj|solutionrelative:cotsim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D003FED9-4CFC-4377-9333-2635B4A386DE}|CoTSim\\CoTSim.csproj|C:\\source\\gitinternal\\CoTSim\\cotsim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D003FED9-4CFC-4377-9333-2635B4A386DE}|CoTSim\\CoTSim.csproj|solutionrelative:cotsim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\source\\gitinternal\\CoTSim\\CoTSim\\Form1.cs",
+              "RelativeDocumentMoniker": "CoTSim\\Form1.cs",
+              "ToolTip": "C:\\source\\gitinternal\\CoTSim\\CoTSim\\Form1.cs",
+              "RelativeToolTip": "CoTSim\\Form1.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAswHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:49:27.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Takmessage.cs",
+              "DocumentMoniker": "C:\\source\\gitinternal\\CoTSim\\CoTSim\\source\\Takmessage.cs",
+              "RelativeDocumentMoniker": "CoTSim\\source\\Takmessage.cs",
+              "ToolTip": "C:\\source\\gitinternal\\CoTSim\\CoTSim\\source\\Takmessage.cs",
+              "RelativeToolTip": "CoTSim\\source\\Takmessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:40:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\source\\gitinternal\\CoTSim\\CoTSim\\Form1.cs",
+              "RelativeDocumentMoniker": "CoTSim\\Form1.cs",
+              "ToolTip": "C:\\source\\gitinternal\\CoTSim\\CoTSim\\Form1.cs",
+              "RelativeToolTip": "CoTSim\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T00:00:34.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
